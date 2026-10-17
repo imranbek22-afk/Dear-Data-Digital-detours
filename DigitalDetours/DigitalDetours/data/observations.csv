@@ -1,3 +1,4 @@
 id,day,period,intended,ended,detour,minutes,completed,provenance
 1,1,EVE,entertainment,entertainment,no,30,yes,observed
 2,1,EVE,entertainment,entertainment,yes,60,no,observed
+3,1,EVE,information,information,no,15,yes,observed
