@@ -16,7 +16,7 @@ void draw() {
 
     int minutes = row.getInt("minutes");
 
-    float x = 100 + (i * 120);
+    float x = 50 + (i * 75);
     float size = minutes;
 
     ellipse(x, 300, size, size);
