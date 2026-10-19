@@ -20,4 +20,13 @@ I will record 2-3 sessions per day
 
 ## Current progress
 
-I am currently setting up the project and will begin collecting genuine observations.
+Current progress
+
+I have collected 9 genuine phone-use observations so far.
+
+My Processing sketch reads the observations from a CSV file and visualises each session as a circle.
+
+Circle size represents the duration of the session.
+Red circles indicate a detour, while green circles indicate no detour.
+
+I am continuing to collect data towards the required 100 observations.
