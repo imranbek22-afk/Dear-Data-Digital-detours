@@ -16,7 +16,7 @@ For each phone-use session, I record:
 
 ## Data collection
 
-I will record the first five phone-use sessions each day.
+I will record 2-3 sessions per day
 
 ## Current progress
 
