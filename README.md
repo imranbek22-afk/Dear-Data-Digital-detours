@@ -20,7 +20,6 @@ I will record 2-3 sessions per day
 
 ## Current progress
 
-Current progress
 
 I have collected 9 genuine phone-use observations so far.
 
