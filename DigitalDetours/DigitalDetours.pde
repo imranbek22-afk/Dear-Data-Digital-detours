@@ -15,6 +15,7 @@ void draw() {
     TableRow row = data.getRow(i);
 
     int minutes = row.getInt("minutes");
+String detour = row.getString("detour");
 
     float x = 50 + (i * 75);
     float size = minutes;
