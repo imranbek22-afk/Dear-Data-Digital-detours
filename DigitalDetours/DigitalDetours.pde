@@ -19,6 +19,11 @@ String detour = row.getString("detour");
 
     float x = 50 + (i * 75);
     float size = minutes;
+if (detour.equals("yes")) {
+  fill(255, 0, 0);
+} else {
+  fill(0, 180, 0);
+}
 
     ellipse(x, 300, size, size);
   }
