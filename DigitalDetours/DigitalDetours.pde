@@ -16,7 +16,7 @@ void draw() {
     TableRow row = data.getRow(i);
 
     int minutes = row.getInt("minutes");
-String detour = row.getString("detour");
+    String detour = row.getString("detour");
 
     float x = 80 + (i % 5) * 150;
     float y = 100 + (i / 5) * 180;
