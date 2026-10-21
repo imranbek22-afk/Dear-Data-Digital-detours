@@ -13,3 +13,10 @@ id,day,period,intended,ended,detour,minutes,completed,provenance,start_app,end_a
 11,4,AM,entertainment,entertainment,no,30,yes,observed,YouTube,YouTube,0
 12,4,PM,entertainment,information,yes,60,yes,observed,TikTok,ChatGPT,15
 13,4,AM,information,information,no,10,yes,observed,Moodle,Moodle,0
+17,5,AM,information,information,no,5,yes,observed,Moodle,Moodle,0
+18,5,PM,entertainment,entertainment,no,120,yes,observed,TikTok,TikTok,0
+19,5,AM,information,information,no,20,yes,observed,ChatGPT,ChatGPT,0
+20,5,PM,information,information,no,90,yes,observed,GitHub,GitHub,0
+14,6,PM,entertainment,entertainment,no,30,yes,observed,YouTube,YouTube,0
+15,6,PM,entertainment,communication,yes,60,yes,observed,TikTok,Snapchat,15
+16,6,PM,communication,communication,no,5,yes,observed,Gmail,Gmail,0
