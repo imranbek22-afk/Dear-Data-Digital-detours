@@ -11,6 +11,22 @@ void setup() {
 
 void draw() {
   background(255);
+  fill(0);
+  textSize(24);
+  text("Digital Detours", 300, 30);
+  textSize(14);
+
+  fill(255, 0, 0);
+  ellipse(90, 45, 12, 12);
+
+  fill(0);
+  text("Detour", 105, 50);
+
+  fill(0, 180, 0);
+  ellipse(200, 45, 12, 12);
+
+  fill(0);
+  text("No detour", 215, 50);
 
   for (int i = 0; i < data.getRowCount(); i++) {
     TableRow row = data.getRow(i);
@@ -19,8 +35,8 @@ void draw() {
     String detour = row.getString("detour");
 
     float x = 80 + (i % 5) * 150;
-    float y = 70 + (i / 5) * 105;
-    float size = minutes;
+    float y = 130 + (i / 5) * 100;
+    float size = getCircleSize(minutes);
 if (detour.equals("yes")) {
   fill(255, 0, 0);
 } else {
@@ -29,4 +45,7 @@ if (detour.equals("yes")) {
 
     ellipse(x, y, size, size);
   }
+}
+float getCircleSize(int minutes) {
+  return minutes;
 }
