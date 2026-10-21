@@ -19,7 +19,7 @@ void draw() {
     String detour = row.getString("detour");
 
     float x = 80 + (i % 5) * 150;
-    float y = 100 + (i / 5) * 180;
+    float y = 70 + (i / 5) * 105;
     float size = minutes;
 if (detour.equals("yes")) {
   fill(255, 0, 0);
