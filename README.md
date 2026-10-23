@@ -1,8 +1,8 @@
-Digital Detours
+Digital Detours:
 
 Digital Detours is my Dear Data project investigating how planned phone use can turn into unexpected distractions. I am collecting observations of my phone-use sessions to compare what I intended to do with what actually happened.
 
-What I am recording
+What I am recording:
 
 Each observation in observations.csv includes:
 
@@ -21,13 +21,13 @@ Each observation in observations.csv includes:
 
 I aim to collect approximately 2–3 genuine observations per day.
 
-Current progress
+Current progress:
 
 My dataset currently contains 20 recorded phone-use observations across 6 collection days.
 
 My next milestone is 25 genuine observations for the Part 1 data check-in. The longer-term goal is 100 observations for the Dear Data project.
 
-Processing visualisation
+Processing visualisation:
 
 My Processing sketch loads observations from a CSV file and represents each phone-use session as a circle.
 
@@ -38,7 +38,7 @@ My Processing sketch loads observations from a CSV file and represents each phon
 
 The sketch includes a method, getCircleSize(int minutes), which returns the value used to determine each circle’s size.
 
-Project structure
+Project structure:
 
 DigitalDetours/
 ├── DigitalDetours.pde
@@ -47,6 +47,6 @@ DigitalDetours/
 
 To run the visualisation, open DigitalDetours.pde in Processing using Java mode, then run the sketch. The CSV loads from the data folder.
 
-Next steps
+Next steps:
 
 Continue collecting real observations, review the data for accuracy, and improve the visualisation as the dataset grows.
