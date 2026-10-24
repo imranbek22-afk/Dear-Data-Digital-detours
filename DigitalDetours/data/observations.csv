@@ -20,3 +20,9 @@ id,day,period,intended,ended,detour,minutes,completed,provenance,start_app,end_a
 14,6,PM,entertainment,entertainment,no,30,yes,observed,YouTube,YouTube,0
 15,6,PM,entertainment,communication,yes,60,yes,observed,TikTok,Snapchat,15
 16,6,PM,communication,communication,no,5,yes,observed,Gmail,Gmail,0
+21,7,EVE,entertainment,entertainment,no,90,yes,observed,TikTok,TikTok,0
+22,7,AM,entertainment,entertainment,no,60,yes,observed,Instagram,Instagram,0
+23,7,EVE,communication,communication,no,10,yes,observed,Snapchat,Snapchat,0
+24,8,PM,entertainment,entertainment,yes,60,no,observed,YouTube,TikTok,15
+25,8,PM,information,information,no,90,yes,observed,GitHub,GitHub,0
+26,8,AM,information,information,no,20,yes,observed,Moodle,Moodle,0

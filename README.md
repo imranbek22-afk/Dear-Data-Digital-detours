@@ -23,9 +23,9 @@ I aim to collect approximately 2–3 genuine observations per day.
 
 Current progress:
 
-My dataset currently contains 20 recorded phone-use observations across 6 collection days.
+My dataset currently contains 26 genuine phone-use observations recorded across 8 collection days.
 
-My next milestone is 25 genuine observations for the Part 1 data check-in. The longer-term goal is 100 observations for the Dear Data project.
+The Part 1 target of 25 observations has been reached. The full Dear Data project target remains 100 observations.
 
 Processing visualisation:
 
